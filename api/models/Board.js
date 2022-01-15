@@ -19,7 +19,7 @@ module.exports = {
     },
 
     name:{
-      'type':'text',
+      'type':'string',
       'required' : true
     }
 

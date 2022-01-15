@@ -20,7 +20,7 @@ module.exports = {
     },
 
     task_name:{
-      'type':'text',
+      'type':'string',
       'required' : true
     },
 
